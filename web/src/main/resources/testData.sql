@@ -1,0 +1,5 @@
+INSERT INTO gift_certificate (name,description,price,duration,create_date,last_update_date) VALUES('GiftCertificate1','DescriptionOne',45,default,default,default);
+INSERT INTO gift_certificate (name,description,price,duration,create_date,last_update_date) VALUES('GiftCertificate2','DescriptionTwo',23,default,default,default);
+INSERT INTO gift_certificate (name,description,price,duration,create_date,last_update_date) VALUES('GiftCertificate3','DescriptionThree',11,default,default,default);
+INSERT INTO gift_certificate (name,description,price,duration,create_date,last_update_date) VALUES('GiftCertificate4','DescriptionFour',87,default,default,default);
+INSERT INTO gift_certificate (name,description,price,duration,create_date,last_update_date) VALUES('GiftCertificate5','DescriptionFive',65,default,default,default);
